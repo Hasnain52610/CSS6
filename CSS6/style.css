@@ -1,0 +1,32 @@
+body{
+    margin: auto;
+    text-align: center;
+    background-color: peachpuff;
+}
+td,th{
+    border: 3px solid green;
+    padding: 7px;
+
+}
+th{
+    background-color: lightgreen;
+    padding-left: 18px;
+    padding-right: 18px;
+} 
+td{
+    padding-left: 18px;
+    padding-right: 18px;
+}
+    
+    
+
+table{
+    border-collapse: collapse;
+     margin: auto;
+}
+h1{
+    color: darkorange;
+}
+.i{
+    color: green;
+}
